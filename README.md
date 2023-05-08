@@ -20,6 +20,6 @@
  -->
 ### ✍️ Random Dev Quote
 <p align="center">
-	<img width="48%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+	<img width="50%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
