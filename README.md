@@ -16,7 +16,10 @@
 <p align="center">
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LHTKing13&theme=dark&hide_border=true" />
 </p>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LHTKing13&theme=dark&hide_border=true)<br/>
-
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=LHTKing13&theme=dark&hide_border=true)<br/>
+ -->
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+	<img width="48%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
