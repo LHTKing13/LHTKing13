@@ -18,7 +18,7 @@
 </p>
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=LHTKing13&theme=dark&hide_border=true)<br/>
  -->
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote:
 <p align="center">
 	<img width="50%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
