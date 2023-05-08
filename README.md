@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Massinissa Kourdache</h1>
+         
 # 💫 About Me:
 🔭 I’m currently building Medica.<br>🌱 I’m currently learning more about Flutter.<br>👯 I’m looking for Flutter Friends.<br>📫 How to reach me: Check social links below.
 
